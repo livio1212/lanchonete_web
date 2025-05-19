@@ -1,38 +1,51 @@
+<h1>🍔 Lanchonete Web</h1>
 
-# Projeto Acadêmico - Padrões Web
+  <p>Este projeto foi desenvolvido como parte da disciplina de <strong>Padrões Web</strong>, com foco na criação de um site funcional e responsivo usando <strong>HTML, CSS e JavaScript</strong>.</p>
 
-* Este repositório contém o projeto desenvolvido com foco na disciplina de Padrões Web, utilizando as tecnologias HTML, CSS e JavaScript. O desenvolvimento foi realizado na IDE Visual Studio Code (VS Code), e o objetivo principal foi atender a um conjunto de 26 requisitos de qualidade, definidos pelo orientador Valdomiro, para a entrega de um site funcional e bem estruturado.
+  <h2>📚 Contexto Acadêmico</h2>
+  <ul>
+    <li><strong>Desenvolvedor:</strong> Livio Costa</li>
+    <li><strong>Orientador:</strong> Valdomiro</li>
+    <li><strong>Requisitos atendidos:</strong> 26 critérios de boas práticas de desenvolvimento web</li>
+  </ul>
 
-* Contexto Acadêmico
-O projeto foi desenvolvido como parte da grade curricular, sendo uma atividade prática voltada para a aplicação de conceitos sobre boas práticas e padrões de desenvolvimento web.
-<p><p>
+  <h2>🛠️ Tecnologias Utilizadas</h2>
+  <ul>
+    <li><strong>HTML:</strong> Estruturação do conteúdo</li>
+    <li><strong>CSS:</strong> Estilização e responsividade</li>
+    <li><strong>JavaScript:</strong> Interatividade</li>
+    <li><strong>IDE:</strong> Visual Studio Code (VS Code)</li>
+  </ul>
 
+  <h2>✅ Objetivos</h2>
+  <p>Este projeto visa demonstrar:</p>
+  <ul>
+    <li>Uso de boas práticas de desenvolvimento</li>
+    <li>Layout responsivo para dispositivos variados</li>
+    <li>Acessibilidade e usabilidade aprimoradas</li>
+    <li>Conformidade com os padrões web modernos</li>
+  </ul>
 
-Desenvolvedor: Livio Costa
-<p><p>
-Orientador: Valdomiro
+  <h2>📁 Estrutura do Projeto</h2>
+  <ul>
+    <li><code>src/</code>: Arquivos-fonte (HTML, CSS, JS)</li>
+    <li><code>Imagens/</code>: Recursos visuais do site</li>
+    <li><code>testes/</code>: Arquivos relacionados a testes</li>
+    <li><code>README.md</code>: Documentação do projeto</li>
+  </ul>
 
-* Tecnologias Utilizadas
- HTML: Estruturação semântica do conteúdo.
- CSS: Estilização e responsividade do site.
- JavaScript: Funcionalidades e interatividade no site.
- IDE: Visual Studio Code (VS Code)
- ✅ Objetivos e Requisitos Atendidos
- O projeto foi desenvolvido com base em 26 requisitos estabelecidos para garantir:
+  <h2>🚀 Como Executar</h2>
+  <ol>
+    <li>Clone o repositório:</li>
+    <pre><code>git clone https://github.com/livio1212/lanchonete_web.git</code></pre>
+    <li>Abra o diretório do projeto:</li>
+    <pre><code>cd lanchonete_web</code></pre>
+    <li>Abra o arquivo <code>index.html</code> no navegador.</li>
+  </ol>
 
-* Qualidade do código: Implementação limpa, organizada e seguindo boas práticas de programação.
-Semântica: Uso correto de tags HTML semânticas.
-Acessibilidade: Melhoria na usabilidade para diferentes usuários.
-Compatibilidade: Garantia de que o site funcione adequadamente em diferentes navegadores.
-Responsividade: Adaptação visual para diferentes tamanhos de tela (desktop, tablet e smartphone).
+  <h2>📄 Licença</h2>
+  <p>Este projeto é de uso acadêmico e não possui uma licença específica.</p>
 
+  <hr>
 
-
-
-💻 Contribuição
-Embora este projeto seja de caráter acadêmico, sinta-se à vontade para sugerir melhorias ou utilizá-lo como referência.
-
-📜 Licença
-Este projeto foi desenvolvido para fins educacionais e não possui restrições de uso.
-
-Qualquer dúvida ou sugestão, entre em contato! 😊
+  <p>🔗 <a href="https://github.com/livio1212/lanchonete_web" target="_blank">Repositório no GitHub</a></p>
